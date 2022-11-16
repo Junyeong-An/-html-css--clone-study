@@ -1,3 +1,3 @@
-# kokoa clone
+# Kokoa Clone
 
 better my life
