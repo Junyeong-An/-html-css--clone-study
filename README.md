@@ -1,3 +1,3 @@
-# Kokoa Clone
+# Kakao Clone
 
 better my life
